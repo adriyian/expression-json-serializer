@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core", "src\Adriyian.ExpressionJsonSerializer\Ad.ExpressionJsonSerializer.Core.csproj", "{5B843F49-2BD5-40AE-9504-A94D4B963A46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core", "src\Ad.ExpressionJsonSerializer.Core\Ad.ExpressionJsonSerializer.Core.csproj", "{5B843F49-2BD5-40AE-9504-A94D4B963A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core.Tests", "tests\Ad.ExpressionJsonSerializer.Tests\Ad.ExpressionJsonSerializer.Core.Tests.csproj", "{2BDC6800-DFC8-4A09-A1A9-83126A94ABB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core.Tests", "tests\Ad.ExpressionJsonSerializer.Core.Tests\Ad.ExpressionJsonSerializer.Core.Tests.csproj", "{2BDC6800-DFC8-4A09-A1A9-83126A94ABB0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{48C68C6F-D203-4917-A9BC-3F0653732B56}"
 EndProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F47AB3C4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{D75D42E3-73B0-48F8-8B9C-953C49979A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core.Sample", "sample\Ad.ExpressionJsonSerializer.Sample\Ad.ExpressionJsonSerializer.Core.Sample.csproj", "{D0922B3C-0ABF-49A9-B675-71EB31FF71C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ad.ExpressionJsonSerializer.Core.Sample", "sample\Ad.ExpressionJsonSerializer.Core.Sample\Ad.ExpressionJsonSerializer.Core.Sample.csproj", "{D0922B3C-0ABF-49A9-B675-71EB31FF71C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

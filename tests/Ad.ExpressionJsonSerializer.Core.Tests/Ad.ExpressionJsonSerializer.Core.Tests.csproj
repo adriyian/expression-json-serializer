@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Adriyian.ExpressionJsonSerializer\Ad.ExpressionJsonSerializer.Core.csproj" />
+    <ProjectReference Include="..\..\src\Ad.ExpressionJsonSerializer.Core\Ad.ExpressionJsonSerializer.Core.csproj" />
   </ItemGroup>
 
 </Project>
